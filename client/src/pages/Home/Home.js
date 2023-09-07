@@ -1,13 +1,13 @@
-import React, { useState, useEffect } from "react";
+import React from 'react'
 import { Box } from "@mui/material";
 import styles from "./styles";
 
-const Header = () => {
+const Home = () => {
   return (
     <Box sx={{ ...styles.mainContainer }}>
-      <div> Kingdom Wars </div>
+        <div> Testing </div>
     </Box>
   )
 }
 
-export default Header;
+export default Home
