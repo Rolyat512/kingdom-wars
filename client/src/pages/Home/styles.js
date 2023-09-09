@@ -1,7 +1,8 @@
 const styles = {
     mainContainer: {
         width: "100%", 
-        height: '80vh',
+        height: '90vh',
+        background: '#ffebee'
     },
     skillBox: {
         border: '1px solid',
