@@ -8,7 +8,7 @@ const styles = {
         textAlign: "center",
         padding: "20px 5px 20px 5px",
         fontFamily: "'Roboto', sans-serif",
-    }
+    },
 } 
 
 export default styles;
