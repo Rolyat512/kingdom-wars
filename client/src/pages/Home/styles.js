@@ -8,7 +8,6 @@ const styles = {
         border: '1px solid',
         width: '300px',
         height: '300px',
-        backgroundColor: 'light.blue',
         color: 'black'
     }
 }
