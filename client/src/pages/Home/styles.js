@@ -18,8 +18,18 @@ const styles = {
         backgroundColor: 'red',
         height: '70px',
         width: '500px',
-        margin: '10px'
-    }
+        margin: '10px',
+        ':hover': {
+            backgroundColor: '#3c52b2',
+            boxShadow: '1px solid',
+        },
+        ':active': {
+            boxShadow: '1px solid',
+            backgroundColor: '#ADD8E6',
+        }
+       
+    },
+    
 }
 
 export default styles;
